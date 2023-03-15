@@ -808,6 +808,18 @@ html {
         font-size: 12px;
     }
 
+    .services{
+        padding-top: 65px !important;
+    }
+    
+    .clinic{
+        padding-top: 65px !important;
+    }
+
+    .specialists{
+        padding-top: 65px !important;
+    }
+
     .nav-list-items a{
         font-size: 1.3rem;
     }
